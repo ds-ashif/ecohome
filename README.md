@@ -1,3 +1,6 @@
+The objective of this project is to optimize the efficiency of power, water, and lighting usage in household appliances.
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
